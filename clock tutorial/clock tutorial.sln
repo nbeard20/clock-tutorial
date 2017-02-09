@@ -1,7 +1,11 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{9F6DF359-B7B3-2CD3-8C7C-1BB1A1E675ED}") = "clock tutorial", "Assembly-CSharp-firstpass.csproj", "{96C9DEEC-9485-1404-71EB-518A5CA2FE79}"
+EndProject
 Project("{9F6DF359-B7B3-2CD3-8C7C-1BB1A1E675ED}") = "clock tutorial", "Assembly-CSharp.csproj", "{331A0A84-41D7-2EAC-E5FF-41FB9F99BB89}"
+EndProject
+Project("{9F6DF359-B7B3-2CD3-8C7C-1BB1A1E675ED}") = "clock tutorial", "Assembly-CSharp-Editor.csproj", "{6F695D2A-6841-86B9-DFF4-8B8D6BEEC35E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96C9DEEC-9485-1404-71EB-518A5CA2FE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C9DEEC-9485-1404-71EB-518A5CA2FE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C9DEEC-9485-1404-71EB-518A5CA2FE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C9DEEC-9485-1404-71EB-518A5CA2FE79}.Release|Any CPU.Build.0 = Release|Any CPU
 		{331A0A84-41D7-2EAC-E5FF-41FB9F99BB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{331A0A84-41D7-2EAC-E5FF-41FB9F99BB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{331A0A84-41D7-2EAC-E5FF-41FB9F99BB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{331A0A84-41D7-2EAC-E5FF-41FB9F99BB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F695D2A-6841-86B9-DFF4-8B8D6BEEC35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F695D2A-6841-86B9-DFF4-8B8D6BEEC35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F695D2A-6841-86B9-DFF4-8B8D6BEEC35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F695D2A-6841-86B9-DFF4-8B8D6BEEC35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
