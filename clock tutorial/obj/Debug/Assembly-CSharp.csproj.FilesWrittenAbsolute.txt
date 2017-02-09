@@ -1,0 +1,13 @@
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/UnityEngine.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/UnityEditor.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Mono.Cecil.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Unity.DataContract.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/nb234515/Desktop/clock-tutorial/clock tutorial/Temp/bin/Debug/Mono.Cecil.Mdb.dll
